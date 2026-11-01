@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.zip
+*.db-shm
+*.db-wal
+.pytest_cache/
+test-results/
+playwright-report/
+.coverage
+
